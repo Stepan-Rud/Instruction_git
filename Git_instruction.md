@@ -1,3 +1,4 @@
+![GitLogo](Git-Logo-1788C.png)
 # Работа с Git and GitHub
 ## 1. Проверка наличия установленного Git
 В терминале выполнить команду `git version`
